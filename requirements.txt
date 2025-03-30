@@ -1,0 +1,8 @@
+Python (Flask) – Web framework for handling requests.
+
+Twilio API – For sending and receiving WhatsApp messages.
+
+NewsAPI – Fetches real-time news headlines (Get from https://newsapi.org/).
+
+APScheduler – Schedules daily news updates.
+
